@@ -150,9 +150,9 @@
 
   
 
-  # 👯Trophy.
+<!--   # 👯Trophy.
   
   
 <img src="https://github-profile-trophy.vercel.app/?username=puppypaduk2&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
-</div>
+</div> -->
 

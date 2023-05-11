@@ -1,5 +1,3 @@
-
-  
 # 💫 About Me
 <div align="center">
 <img src="https://github.com/PuppyPaduk2/PuppyPaduk2/blob/main/images/me.jpg" width="180" style="border-radius: 90" />

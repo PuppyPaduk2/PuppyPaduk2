@@ -142,7 +142,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppypaduk2&hide=html&theme=light)]
 
 </div>
-  <sub>Created by <a href="https://github.com/puppypaduk2/techstack-generator" target="_blank">Lovely Sweet</a></sub>  
+  <sub>Created by <a href="https://github.com/puppypaduk2/puppypaduk2" target="_blank">Lovely Sweet</a></sub>  
 </div>
 
 <div align="center">

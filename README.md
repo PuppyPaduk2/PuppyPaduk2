@@ -2,7 +2,7 @@
   
 # 💫 About Me
 <div align="center">
-<img src="https://github.com/puppypaduk2/puppypaduk2/blob/main/images/me.png" width="180" />
+<img src="https://github.com/puppypaduk2/puppypaduk2/images/me.png" width="180" />
 </div>
 <div>
 <br/>

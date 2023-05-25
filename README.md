@@ -1,6 +1,5 @@
 # 💫 About Me
 <div align="center">
-<img src="https://github.com/PuppyPaduk2/PuppyPaduk2/blob/main/images/me.jpg" width="180" style="border-radius: 90" />
 </div>
 <div>
 <br/>
@@ -11,10 +10,6 @@
 </div>
 <div align="center">
 
-  
-  <!-- ### Info. -->
-  
-  <!-- [Blog](https://shellboylog.com) | [Resume](https://slash-letter-bfe.notion.site/8bd2dad461674db2b7bff767bcfde970) | [Portfolio](https://portfolio-livid-rho.vercel.app) -->
   
 # 💻 My favorite tools and technologies
   
